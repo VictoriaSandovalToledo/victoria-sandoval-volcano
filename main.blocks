@@ -1,1 +1,49 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="7rwCt/1i]nt%fbx{{k*{" x="20" y="20"></block><block type="device_forever" id="#tD1TSo}--S|`-:eFu(D" x="225" y="20"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=":TMh@q4g/Mw3|^m%r.0b" x="95" y="156"><statement name="HANDLER"><block type="controls_repeat_ext" id="zkpzwdNEj.J./1$tmBUw"><comment pinned="true" h="80" w="160">Magma rising through a vent.</comment><value name="TIMES"><shadow type="math_whole_number" id="HLT1gg$%MH;1Oi-iG,Vc"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="u9~(%cyfe?G^E1=^}xd2"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # #
+        `</field><next><block type="device_pause" id="v!#cuzk~1)}I,@rziz,Y"><value name="pause"><shadow type="timePicker" id="OK7CG!V!tDXzBh.|![Es"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="VqtcncQhA?m!|pCv0$W4"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="I(pbpdJ,8!?EQtvuTEK{"><value name="pause"><shadow type="timePicker" id="?87*n`ldqjn]g_LOiWK!"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="5)IZ-LOovZP8VDnZpYgB"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="WQ?~v9ZThR+!X^M{:kza"><value name="pause"><shadow type="timePicker" id="Cbm`hkCViVwQhFz[hgZU"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="p6UQ|@Q(D}l{UZ),XTIz"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="Wq~eSZI[z5TpVQ3Swjus"><value name="pause"><shadow type="timePicker" id="vRJNbsa4bxvNNPJFiMye"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="controls_repeat_ext" id="]cdIY_Suml$HsxuVL!1N"><comment pinned="true" h="80" w="160">Lava erupting.</comment><value name="TIMES"><shadow type="math_whole_number" id=".7efB?.$Ys,MOYVpp+Ei"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="kB.+)jz;,Q7--U-4rIQK"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="f*M!}U.$SV6sqj^T]!U@"><value name="pause"><shadow type="timePicker" id="CqM$XO.G|N!7hvBqMKg^"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="sA^Hx;-}T*4CX@v,b7-G"><field name="LEDS">`
+        # . # . # 
+        . . # . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="A-IPi4bgd/77kjA|92i]"><value name="pause"><shadow type="timePicker" id=".iEcJ3`EL#VW-s:DsWr*"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="!l9=+q|)dPzBv9J!_b:,"><field name="LEDS">`
+        . # # # . 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="f]O_@EX*{m5FJ5TT%Q]N"><value name="pause"><shadow type="timePicker" id="=aiT^U,dz(Sq`1[1$oz@"><field name="ms">250</field></shadow></value><next><block type="device_show_leds" id="NFbI_Lq#-D|w+;nQ|L5="><field name="LEDS">`
+        # # # # # 
+        . . . . . 
+        . . . . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_pause" id="A}CO;^h|LxX5B^u!qZdY"><value name="pause"><shadow type="timePicker" id="]`4r[/0Xey70dg;{78IK"><field name="ms">250</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></next></block></statement></block></xml>
